@@ -7,6 +7,12 @@
 
 ---
 
+## 📊 Live Dashboard
+
+🔗 [Click here to view the Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzkyZmVmYmQtYWRhZC00ZjMzLWJhNTAtZmVmZjg4ZjNkYTBlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+---
+
 ## 🏨 Problem Statement
 
 AtliQ Grands is a reputed hotel chain with 20+ years of experience in the hospitality industry. Due to aggressive moves from competitors and ineffective decision-making, the company started losing market share and revenue.
